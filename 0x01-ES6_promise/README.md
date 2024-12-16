@@ -1,1 +1,1 @@
-This project is all about javaScript basic.
+ES6 Promises
